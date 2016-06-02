@@ -1,6 +1,7 @@
 # Calculations using words
 
 [![Build Status](https://img.shields.io/travis/vadimgoncharov/calculations-using-words/master.svg)](https://travis-ci.org/vadimgoncharov/calculations-using-words)
+[![Coverage Status](https://img.shields.io/coveralls/vadimgoncharov/calculations-using-words/master.svg)](https://coveralls.io/r/vadimgoncharov/calculations-using-words)
 
 ## Requirements
 
