@@ -1,5 +1,6 @@
 # Calculations using words
 
+![Node Version 6.x.x](https://img.shields.io/badge/node-6.x.x-brightgreen.svg)
 [![Build Status](https://img.shields.io/travis/vadimgoncharov/calculations-using-words/master.svg)](https://travis-ci.org/vadimgoncharov/calculations-using-words)
 [![Coverage Status](https://img.shields.io/coveralls/vadimgoncharov/calculations-using-words/master.svg)](https://coveralls.io/r/vadimgoncharov/calculations-using-words)
 
